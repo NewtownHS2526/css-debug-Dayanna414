@@ -2,7 +2,7 @@
 /* Instructions: There are 50 intentional errors in this CSS file. Fix them all! */
 
 /* Error 1: Missing semicolon */
-* {
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
